@@ -1,0 +1,46 @@
+<div class="signin">
+    <button type="button"><a href="signin/signin.html"> Sign In </a> </button>  
+</div>
+<div class="signup">
+    <button type="button"><a href="signup/signup.html"> Sign Up </a> </button>
+</div>
+
+--------------------------------------------------------------------------------------------------
+
+.signin{
+    float: right;
+    height: 55px;
+    padding-top: 40px;
+    padding-right: 10px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    margin-right: 30px;
+}
+
+.signup{
+    float: right;
+    height: 55px;
+    padding-top: 40px;
+    padding-right: 20px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+}
+
+button > a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: #1e7c9a;
+    color: #ffffff;
+    border: 2px solid;
+}

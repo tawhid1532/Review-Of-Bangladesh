@@ -1,0 +1,54 @@
+<td>Climate variations:</td>
+
+<table class="sub-table">
+                        <tbody>
+                        <tr>
+                        <td>Season</td>
+                        <td colspan="2">Temperature</td>
+                        <td>Rainfall</td>
+                        <td>Relative humidity</td>
+                        </tr>
+                        <tr>
+                        <td></td>
+                        <td>maximum</td>
+                        <td>minimum</td>
+                        <td></td>
+                        <td></td>
+                        </tr>
+                        <tr>
+                        <td>Pre monsoon</td>
+                        <td>32.60C</td>
+                        <td>22.40C</td>
+                        <td>453 mm</td>
+                        <td>74%</td>
+                        </tr>
+                        <tr>
+                        <td>Monsoon</td>
+                        <td>31.50C</td>
+                        <td>25.50C</td>
+                        <td>1,733 mm</td>
+                        <td>86%</td>
+                        </tr>
+                        <tr>
+                        <td>Post monsoon</td>
+                        <td>30.50C</td>
+                        <td>21.40C</td>
+                        <td>210 mm</td>
+                        <td>80%</td>
+                        </tr>
+                        <tr>
+                        <td>Winter</td>
+                        <td>26.50C</td>
+                        <td>13.90C</td>
+                        <td>44 mm</td>
+                        <td>73%</td>
+                        </tr>
+                        <tr>
+                        <td>Annual</td>
+                        <td>30.40C</td>
+                        <td>21.20C</td>
+                        <td>203 mm</td>
+                        <td>78%</td>
+                        </tr>
+                        </tbody>
+                        </table>
